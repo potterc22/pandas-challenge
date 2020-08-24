@@ -51,7 +51,7 @@ Your final report should include each of the following:
   * Purchase Count  X
   * Average Purchase Price  X
   * Total Purchase Value  X
-  * Average Purchase Total per Person by Gender
+  * Average Purchase Total per Person by Gender X
 
 ### Age Demographics
 
@@ -59,7 +59,7 @@ Your final report should include each of the following:
   * Purchase Count  X
   * Average Purchase Price  X
   * Total Purchase Value  X
-  * Average Purchase Total per Person by Age Group
+  * Average Purchase Total per Person by Age Group X
 
 ### Top Spenders
 
