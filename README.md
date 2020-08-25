@@ -64,19 +64,19 @@ Your final report should include each of the following:
 ### Top Spenders
 
 * Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
-  * SN
-  * Purchase Count
-  * Average Purchase Price
-  * Total Purchase Value
+  * SN X
+  * Purchase Count X
+  * Average Purchase Price X
+  * Total Purchase Value X
 
 ### Most Popular Items
 
 * Identify the 5 most popular items by purchase count, then list (in a table):
-  * Item ID
-  * Item Name
-  * Purchase Count
-  * Item Price
-  * Total Purchase Value
+  * Item ID X
+  * Item Name X
+  * Purchase Count X
+  * Item Price X
+  * Total Purchase Value X
 
 ### Most Profitable Items
 
